@@ -19,3 +19,25 @@
 │── 📂 Research/         
 │    ├── Papers/          # Related research papers & documentation
 │    ├── Notes/           # Personal notes on soft robotics
+
+
+
+--------------------
+
+
+
+📂 Soft_Crawling_Robot_SocialMedia/
+│── 📜 Content_Plan.md  # Overview of posts & schedule
+│── 📂 Videos/
+│    ├── Raw_Footage/  # Unedited clips of fabrication, testing, demos
+│    ├── Edited/       # Final cut videos, ready for posting
+│── 📂 Images/
+│    ├── Process/      # Step-by-step images of fabrication
+│    ├── Final_Robot/  # Glam shots of the finished robot
+│── 📂 Graphics/
+│    ├── Thumbnails/   # Custom thumbnails for social posts
+│    ├── Diagrams/     # Explainers of how the robot works
+│── 📂 Captions/
+│    ├── Drafts/       # Pre-written captions for each post
+│    ├── Hashtags/     # Relevant hashtags for reach
+│── 📂 Music_SFX/      # Background music and sound effects for videos
