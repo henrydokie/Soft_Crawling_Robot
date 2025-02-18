@@ -1,0 +1,71 @@
+# PMP Certification Study Plan
+project:
+  name: "PMP Certification Attainment"
+  objective: "Obtain PMP certification in 6 months while balancing existing commitments."
+  priority: "Low"
+  estimated_duration: "24 weeks"
+  study_hours_per_week: 5-6
+  expected_outcome: 
+    - "Enhance project management and discipline skills."
+    - "Strengthen recognition for future Principal Engineer role."
+    - "Pass PMP exam within 6 months."
+
+timeline:
+  phase_1:
+    name: "Foundation"
+    duration: "Weeks 1-4"
+    tasks:
+      - "Read PMBOK Guide (7th Ed.) introduction."
+      - "Watch PMP overview lectures (Rita Mulcahy, Andrew Ramdayal)."
+      - "Set up a study schedule (3x per week, 1.5–2 hours per session)."
+  phase_2:
+    name: "Process Groups & Knowledge Areas"
+    duration: "Weeks 5-12"
+    tasks:
+      - "Study one knowledge area per week."
+      - "Take chapter quizzes and note weak areas."
+      - "Memorize key PMP formulas (Earned Value, Critical Path)."
+      - "Review Agile & Hybrid methodologies."
+  phase_3:
+    name: "Practice Questions & Application"
+    duration: "Weeks 13-18"
+    tasks:
+      - "Take one full-length practice exam per week."
+      - "Analyze wrong answers and revise weak areas."
+      - "Skim PMBOK Guide for reinforcement."
+      - "Adjust study sessions based on performance."
+  phase_4:
+    name: "Final Review & Exam Prep"
+    duration: "Weeks 19-24"
+    tasks:
+      - "Take two full-length practice exams."
+      - "Use flashcards for ITTOs (Inputs, Tools, Techniques, Outputs)."
+      - "Revise exam strategies (time management, question elimination)."
+      - "Schedule PMP exam within final two weeks."
+
+risk_management:
+  time_constraints: "Adjust study load; extend timeline if necessary."
+  burnout: "Take a one-week break after Week 12."
+  complex_topics: "Increase video-based learning, join study groups."
+  exam_anxiety: "Simulate real exam conditions during practice."
+
+success_metrics:
+  - "Complete at least 80% of scheduled study sessions."
+  - "Score 70%+ on mock exams before scheduling the real test."
+  - "Master at least 80% of ITTOs."
+  - "Pass the PMP exam within six months."
+
+resources:
+  study_materials:
+    - "PMBOK Guide (7th Ed.)"
+    - "Agile Practice Guide"
+    - "Rita Mulcahy’s PMP Exam Prep"
+  practice_tests:
+    - "PrepCast PMP Simulator"
+    - "PMI Mock Exams"
+  video_resources:
+    - "Andrew Ramdayal’s PMP Course"
+    - "Ricardo Vargas Process Flow Videos"
+  tools:
+    - "Google Calendar for study sessions"
+    - "Trello for tracking progress"
